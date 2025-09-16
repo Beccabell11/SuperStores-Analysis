@@ -70,10 +70,11 @@ The report was designed and developed by **Rebecca Te Kahika** as part of a port
 
 ---
 
-## 📂 Repository Contents
-- [Superstore Analysis.pbix](Superstore%20Analysis.pbix) – Full Power BI dashboard file  
-- [Superstore Analysis.pdf](Superstore%20Analysis.pdf) – Exported presentation  
-- [README.md](README.md) – Project documentation
+## 📂 Repository Contents  
+- [SuperStore Analysis.pbix](https://github.com/Beccabell11/SuperStores-Analysis/blob/main/SuperStore%20Analysis.pbix) – Full Power BI dashboard file  
+- [SuperStore Analysis.pdf](https://github.com/Beccabell11/SuperStores-Analysis/blob/main/SuperStore%20Analysis.pdf) – Exported presentation  
+- [README.md](https://github.com/Beccabell11/SuperStores-Analysis/blob/main/README.md) – Project documentation  
+
 ---
 
 ## 🔗 View the Interactive Report  
